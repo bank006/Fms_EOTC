@@ -1,0 +1,14 @@
+<style>
+  body {
+    font-family: 'Kanit', sans-serif;
+    /*font-size: 14px;*/
+    background-image: url("img/fms_bg.jpg");
+  no-repeat fix; background-size: 100%;
+  }
+  .wrapper{ 
+  margin-left: 10px;
+  margin-right: 10px;
+  min-width: 650px;
+  background-color: white ;
+  }
+</style>

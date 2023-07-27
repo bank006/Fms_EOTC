@@ -1,0 +1,98 @@
+body{
+    overflow: hidden;
+}
+
+.scoll{
+    max-width:2000px;
+    
+    overflow-y: scroll;
+    overflow: hidden; 
+    /* box-shadow: 0 5px 10px 0; */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: -19px;
+}
+
+
+
+.box{
+    margin-bottom: 20px;
+    
+    background: whitesmoke;
+    border-radius: 10px;
+    padding-right: 20px;
+    height: 200px;
+    padding: 10px;
+    
+    
+}
+
+
+.box p{
+    font-size: 34px;
+}
+
+.big{
+    width: 100%;
+    height: 75vh;
+    overflow-y: scroll;
+    margin-left: 280px;
+    
+    
+}
+
+.row{
+    height: 100%;
+    
+}
+
+.sub{
+    display: flex;
+    width: 700px;
+    margin-left: 300px;
+    margin-top: -70px;
+   
+}
+.felx{
+    display: block;
+}
+
+.sub p{
+    
+    /* margin-left: 180px; */
+    font-size: 25px;
+    color: black;
+}
+
+.boxreview{
+    margin-left: 120px;
+    padding: 0px;
+    width: 1200px;
+ 
+}
+
+.boxreview input{
+    width: 80%;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.boxreview button{
+    margin: 0px;
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    
+}
+
+.back a {
+    
+    padding-left: 280px;
+}
+
+
+
+
+
+

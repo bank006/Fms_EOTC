@@ -1,0 +1,36 @@
+
+
+.title{
+    margin: 0;
+}
+
+.box{
+    margin-bottom: 20px;
+    border: 1px solid black;
+    background: whitesmoke;
+    border-radius: 10px;
+    width: 1000px;
+    margin-right: 100px;
+    
+}
+
+.box{
+    padding: 10px;
+}
+
+p{
+    font-size: 34px;
+    color: black;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+  
+}
+
+.mt{
+    margin-top: 20px;
+  color:#00008c;
+} 
+
